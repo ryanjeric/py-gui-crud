@@ -1,0 +1,6 @@
+.vscode
+env
+build
+store.db
+part_manager.spec
+__pycache__
